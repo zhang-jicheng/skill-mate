@@ -1,0 +1,14 @@
+{
+  "name": "skill-mate",
+  "version": "2.0.0",
+  "description": "技能伙伴 - 自动分析你的请求，从已安装的 Skill 中推荐最合适的",
+  "author": "zhang-jicheng",
+  "license": "MIT",
+  "skills": {
+    "skill-mate": {
+      "name": "skill-mate",
+      "description": "技能伙伴。自动分析你的请求，从已安装的 Skill 中推荐最合适的，说明为什么推荐它。你说\"就用它\"就执行，执行完继续推荐下一步。",
+      "tags": ["skill推荐", "路由", "意图分析", "匹配"]
+    }
+  }
+}
