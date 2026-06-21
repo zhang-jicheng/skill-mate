@@ -1,6 +1,6 @@
 {
   "name": "skill-mate",
-  "version": "2.0.0",
+  "version": "2.2.0",
   "description": "技能伙伴 - 自动分析你的请求，从已安装的 Skill 中推荐最合适的",
   "author": "zhang-jicheng",
   "license": "MIT",
